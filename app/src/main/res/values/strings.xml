@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SlidingPaneLayoutDemo</string>
+    <array name="home_items">
+        <item>normal mode</item>
+        <item>wechat mode</item>
+    </array>
 </resources>
