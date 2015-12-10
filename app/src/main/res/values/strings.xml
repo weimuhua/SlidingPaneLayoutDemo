@@ -4,4 +4,9 @@
         <item>normal mode</item>
         <item>wechat mode</item>
     </array>
+    <array name="url_arr">
+        <item>新浪网</item>
+        <item>腾讯网</item>
+        <item>百度</item>
+    </array>
 </resources>
