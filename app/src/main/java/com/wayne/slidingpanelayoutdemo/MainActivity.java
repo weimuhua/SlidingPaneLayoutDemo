@@ -9,6 +9,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 import com.wayne.slidingpanelayoutdemo.normal.NormalModeActivity;
+import com.wayne.slidingpanelayoutdemo.wechat.TestActivity;
 
 public class MainActivity extends Activity implements AdapterView.OnItemClickListener {
 
@@ -43,6 +44,7 @@ public class MainActivity extends Activity implements AdapterView.OnItemClickLis
                 startActivity(new Intent(this, NormalModeActivity.class));
                 break;
             case INTENT_WECHAT_MODE:
+                startActivity(new Intent(this, TestActivity.class));
                 break;
         }
     }

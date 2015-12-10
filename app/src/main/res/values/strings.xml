@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">SlidingPaneLayoutDemo</string>
+    <string name="swipe_finish">swipe to right to finish activity.</string>
     <array name="home_items">
         <item>normal mode</item>
         <item>wechat mode</item>
